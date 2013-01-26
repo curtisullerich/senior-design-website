@@ -1,16 +1,9 @@
 ---
 layout: page
-title: Senior Design
-tagline: Designing your seniors since 2013.
+title: Team Butterfly
+tagline: Senior Design Group 8
 ---
 {% include JB/setup %}
 
+With ISU's Reiman Gardens as our client, we are designing a mobile app for tracking and recording statistics about butterflies.
 
-## Our Great Content Section
-
-Look at all this content!
-
-{% highlight c linenos %}
-printf("We have code, too!");
-
-{% endhighlight %}
