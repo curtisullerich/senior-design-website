@@ -23,7 +23,7 @@ group: navigation
       Senior, Computer Engineering
       <br/><br/>
     <h2>Julie Tillman</h2>
-      <div style="display:block min-height:200px; min-width:200px;">
+      <div style="display:block height:200px;">
         <img src="img/julie.jpg"/>
       </div>
       Senior, Computer Engineering
