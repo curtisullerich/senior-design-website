@@ -23,8 +23,13 @@ group: navigation
       Senior, Computer Engineering
       <br/><br/>
     <h2>Julie Tillman</h2>
-      <img src="img/julie.jpg"/>
+      <div style="display:block min-height:200px; min-width:200px;">
+        <img src="img/julie.jpg"/>
+      </div>
       Senior, Computer Engineering
+    <h2>Nathan Brockman</h2>
+      <img src="img/monarch.png"/>
+      Client, Reiman Gardens Program Coordinator
   </div>
   <div class="span6">
     <h2>Cameron Whipple</h2>
@@ -36,6 +41,9 @@ group: navigation
         <img src="img/curtis.jpg"/>
       </div>
       Senior, Computer Engineering
+    <h2>Dr. Diane Rover</h2>
+      <img src="img/monarch.png"/>
+      Advisor
   </div>
 </div>
 
