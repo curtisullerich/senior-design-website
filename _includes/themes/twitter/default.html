@@ -25,49 +25,18 @@
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
   -->
-      <style type="text/css">
-
-      /* Sticky footer styles
-      -------------------------------------------------- */
-
-      html,
-      body {
-        height: 100%;
-        /* The html and body elements cannot have any padding or margin. */
-      }
-
-      /* Wrapper for page content to push down footer */
-      #wrap {
-        min-height: 100%;
-        height: auto !important;
-        height: 100%;
-        /* Negative indent footer by its height */
-        margin: 0 auto -40px;
-      }
-
-      /* Set the fixed height of the footer here */
-      #push,
-      #footer {
-        height: 40px;
-      }
-
-    </style>
-
   </head>
 
   <body>
-   <div id="wrap" > 
 
     <div class="navbar">
       <div class="navbar-inner">
-        <div class="container">
           <a class="brand" href="{{ HOME_PATH }}"> <img src="img/monarch.png" style="height:30px; width:30px; display:inline;"/> {{ site.title }} </a>
           <ul class="nav">
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
-        </div>
       </div>
     </div>
     
@@ -76,9 +45,7 @@
      <div class="content">
         {{ content }}
      </div>
-     <div id="push"></div>
     </div><!--container-->
-   </div> <!--wrap-->
       <div id="footer" class="container">
         <br/>
         <br/>
