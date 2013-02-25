@@ -19,22 +19,23 @@ group: navigation
 <div class="row">
   <div class="span6">
     <h2>Ryan Scheel</h2>
-      Senior, Computer Engineering
       <img src="img/monarch.png"/>
+      Senior, Computer Engineering
+      <br/><br/>
     <h2>Julie Tillman</h2>
+      <img src="img/julie.jpg"/>
       Senior, Computer Engineering
-      <img src="img/monarch.png"/>
   </div>
   <div class="span6">
     <h2>Cameron Whipple</h2>
-      Senior, Computer Engineering
       <img src="img/monarch.png"/>
-
-    <h2>Curtis Ullerich</h2>
       Senior, Computer Engineering
+      <br/><br/>
+    <h2>Curtis Ullerich</h2>
       <div style="display:block min-height:200px; min-width:200px;">
         <img src="img/curtis.jpg"/>
       </div>
+      Senior, Computer Engineering
   </div>
 </div>
 
