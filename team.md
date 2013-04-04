@@ -51,8 +51,17 @@ group: navigation
     </div>
     <div class="cont">
     <h2>Dr. Diane Rover</h2>
-      <img src="img/monarch.png"/>
+      <img src="img/diane.jpg"/>
       Project Advisor
     </div> 
+  </div>
+  <div class="span6">
+    <div class="cont">
+    <h2>Anita Westphal</h2>
+      <img src="img/monarch.png"/>
+      Client, Reiman Gardens
+    </div>
+    <div class="cont">
+    <div class="cont">
   </div>
 </div>
