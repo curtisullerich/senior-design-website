@@ -57,11 +57,11 @@ group: navigation
   </div>
   <div class="span6">
     <div class="cont">
-    <h2>Anita Westphal</h2>
+      <h2>Anita Westphal</h2>
       <img src="img/monarch.png"/>
       Client, Reiman Gardens
     </div>
     <div class="cont">
-    <div class="cont">
+    </div>
   </div>
 </div>
