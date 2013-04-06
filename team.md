@@ -34,7 +34,7 @@ group: navigation
     </div>
     <div class="cont">
     <h2>Nathan Brockman</h2>
-      <img src="img/monarch.png"/>
+      <img src="img/nathan.png"/>
       Client, Reiman Gardens Program Coordinator
     </div>
   </div>
