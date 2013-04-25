@@ -58,7 +58,7 @@ group: navigation
   <div class="span6">
     <div class="cont">
       <h2>Anita Westphal</h2>
-      <img src="img/monarch.png"/>
+      <img src="img/anita.jpg"/>
       Client, Reiman Gardens
     </div>
     <div class="cont">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documents
-group: not-yet-navigation
+group: navigation
 ---
 {% include JB/setup %}
 
