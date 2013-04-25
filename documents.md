@@ -6,7 +6,7 @@ group: navigation
 {% include JB/setup %}
 
 # Slides
-<iframe src="https://docs.google.com/presentation/d/1HlGNYl5fNbsy3fPKVCZnMaHdOGCFyfaEpEdwmwU9stw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"> </iframe>
+<iframe src="https://docs.google.com/presentation/d/1HlGNYl5fNbsy3fPKVCZnMaHdOGCFyfaEpEdwmwU9stw/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"> </iframe>
 
 # Design Document
 <iframe src="https://docs.google.com/document/d/1Y6CH9beSauGyFeEVq8oqfPrC_C1lIYa-CssfAdH1xhg/pub?embedded=true" width="800" height="800"> </iframe>
