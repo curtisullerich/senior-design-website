@@ -5,13 +5,12 @@ group: navigation
 ---
 {% include JB/setup %}
 
-We have documented our design, our implementation, and the process of creating it. 
-For our official reviewers, please read our cover page. We are happy to answer any questions sent to butterflies@iastate.edu.
+For our official reviewers, please read our cover page. We are happy to answer any questions sent to butterflies@iastate.edu.  
 
-[Cover Page](/files/butterfly-cover.pdf)
-[Design Document](/files/butterfly-design-doc.pdf)
-[Project Plan](/files/butterfly-project-plan.pdf)
-[Slides](/files/butterfly-slides.pdf) as presented on 4/30/13.
+[Cover Page](/files/butterfly-cover.pdf)  
+[Design Document](/files/butterfly-design-doc.pdf)  
+[Project Plan](/files/butterfly-project-plan.pdf)  
+[Slides](/files/butterfly-slides.pdf) as presented on 4/30/13.  
 
 <!--
 ### Design Document
