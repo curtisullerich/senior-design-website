@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Weekly Reports
-group: navigation
+group: 
 ---
 {% include JB/setup %}
 
