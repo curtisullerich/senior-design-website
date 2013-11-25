@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Questionnaire
-group: navigation
 ---
 {% include JB/setup %}
 

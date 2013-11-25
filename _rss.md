@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Updates
+title: Old Updates
 group: navigation
 ---
 {% include JB/setup %}

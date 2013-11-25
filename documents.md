@@ -5,12 +5,17 @@ group: navigation
 ---
 {% include JB/setup %}
 
-For our official reviewers, please read our cover page. We are happy to answer any questions sent to butterflies@iastate.edu.  
+###Semester 2, Fall 2013
+In progress.
 
-###[Cover Page](/files/butterfly-cover.pdf)  
-###[Design Document](/files/butterfly-design-doc.pdf)  
-###[Project Plan](/files/butterfly-project-plan.pdf)  
-###[Slides](/files/butterfly-slides.pdf) as presented on 4/30/13.  
+###Semester 1, Spring 2013
+<!--For our official reviewers, please read our cover page. We are happy to answer any questions sent to butterflies@iastate.edu.-->
+[Cover Page](/files/butterfly-cover.pdf)  
+[Design Document](/files/butterfly-design-doc.pdf)  
+[Project Plan](/files/butterfly-project-plan.pdf)  
+[Slides](/files/butterfly-slides.pdf) as presented on 4/30/13.  
+[Questionnaire](/questionnaire.html) used for original market research.
+
 
 <!--
 ### Design Document
