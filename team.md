@@ -24,41 +24,41 @@ group: navigation
   <div class="span6">
     <div class="cont">
     <h2>Ryan Scheel</h2>
-      <img src="img/ryan.jpg"/>
+      <img src="img/ryan_thumb.png"/>
       Senior, Computer Engineering
     </div>
     <div class="cont">
     <h2>Julie Tillman</h2>
-      <img src="img/julie.jpg"/>
+      <img src="img/julie_thumb.png"/>
       Senior, Computer Engineering
     </div>
     <div class="cont">
     <h2>Nathan Brockman</h2>
-      <img src="img/nathan.jpg"/>
+      <img src="img/nathan_thumb.png"/>
       Client, Reiman Gardens Program Coordinator
     </div>
   </div>
   <div class="span6">
     <div class="cont">
     <h2>Cameron Whipple</h2>
-      <img src="img/cameron.jpg"/>
+      <img src="img/cameron_thumb.png"/>
       Senior, Computer Engineering
     </div>
     <div class="cont">
     <h2>Curtis Ullerich</h2>
-      <img src="img/curtis.jpg"/>
+      <img src="img/curtis_thumb.png"/>
       Senior, Computer Engineering
     </div>
     <div class="cont">
     <h2>Dr. Diane Rover</h2>
-      <img src="img/diane.jpg"/>
+      <img src="img/diane_thumb.png"/>
       Project Advisor
     </div> 
   </div>
   <div class="span6">
     <div class="cont">
       <h2>Anita Westphal</h2>
-      <img src="img/anita.jpg"/>
+      <img src="img/anita_thumb.png"/>
       Client, Reiman Gardens
     </div>
     <div class="cont">
