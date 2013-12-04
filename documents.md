@@ -8,6 +8,8 @@ group: navigation
 ###Semester 2, Fall 2013
 In progress.
 
+[UBR Usage Guide](/files/ubr-guide.pdf) for UBR 1.0.0 17, (created by Reiman Gardens staff)
+
 ###Semester 1, Spring 2013
 <!--For our official reviewers, please read our cover page. We are happy to answer any questions sent to butterflies@iastate.edu.-->
 [Cover Page](/files/butterfly-cover.pdf)  
