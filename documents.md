@@ -11,7 +11,6 @@ In progress.
 [Poster](/files/ubr-poster.pdf)
 [UBR Usage Guide](/files/ubr-usage.pdf) for UBR 1.0.0 17, (created by Reiman Gardens staff)
 
->>>>>>> d9d09b1134a38c0c96c7c4d558eee071097ccc2d
 ###Semester 1, Spring 2013
 <!--For our official reviewers, please read our cover page. We are happy to answer any questions sent to butterflies@iastate.edu.-->
 [Cover Page](/files/butterfly-cover.pdf)  
