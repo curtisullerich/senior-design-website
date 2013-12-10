@@ -6,9 +6,8 @@ group: navigation
 {% include JB/setup %}
 
 ###Semester 2, Fall 2013
-In progress.
 
-[Final Report](/files/final-report.pdf)
+[Final Report](/files/final-report.pdf)  
 [Poster](/files/ubr-poster.pdf)  
 [UBR Usage Guide](/files/ubr-usage.pdf) for UBR 1.0.0 17, (created by Reiman Gardens staff)  
 
