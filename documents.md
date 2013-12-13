@@ -9,6 +9,7 @@ group: navigation
 
 [Final Report](/files/final-report.pdf)  
 [Poster](/files/ubr-poster.pdf)  
+[Slides](/files/ubr-slides.pdf)  
 [UBR Usage Guide](/files/ubr-usage.pdf) for UBR 1.0.0 17, (created by Reiman Gardens staff)  
 
 ###Semester 1, Spring 2013
